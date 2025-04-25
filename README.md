@@ -24,6 +24,8 @@
 Задание 1-1
 ![Задание 1-2](https://github.com/MrVanG0gh/Netology-smon-zabbix-02/blob/main/pics/Screen1_2.png)
 Задание 1-2
+![Задание 1-3](https://github.com/MrVanG0gh/Netology-smon-zabbix-02/blob/main/pics/Screen1_3.png)
+Задание 1-3
 ---
 
 ### Задание 2
